@@ -1,8 +1,8 @@
-define(["require", "exports"], function (require, exports) {
-    "use strict";
-    Object.defineProperty(exports, "__esModule", { value: true });
-    var DEBUG = false;
-});
+import $ = require('jquery');
+import _ = require('lodash');
+
+var DEBUG = false;
+
 // Start the main app logic.
 /*require(['jquery', 'bootstrap', 'moment', 'interface', 'classes/World'],
 function( $      ,  bootstrap ,  moment ,  ui        ,  World         ) {
@@ -89,5 +89,4 @@ function init() {
   }
   update();
 }
-});*/ 
-//# sourceMappingURL=main.js.map
+});*/

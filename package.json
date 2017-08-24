@@ -6,7 +6,11 @@
   "dependencies": {
     "lodash": "^4.17.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/jquery": "^3.2.12",
+    "@types/lodash": "^4.14.74",
+    "jquery": "^3.2.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
