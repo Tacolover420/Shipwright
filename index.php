@@ -20,8 +20,7 @@
 
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<!--<script data-main="js/main.js" src="js/lib/require.js"></script>-->
-		<script src="js/build.js"></script>
+		<script data-main="js/main.js" src="js/lib/require.js"></script>
 	</head>
 
 	<body>
@@ -91,7 +90,6 @@
 					<tr><td>S</td><td>Furl sails</td></tr>
 					<tr><td>A/D</td><td>Rudder to port/starboard</td></tr>
 					<tr><td>R</td><td>Drop/raise anchor</td></tr>
-					<tr><td>P</td><td>Cycle ship type</td></tr>
 					<tr class="disabled"><td>M</td><td>View sea charts</td></tr>
 					<tr class="disabled"><td>Q/E</td><td>Fire port/starboard cannons</td></tr>
 					<tr class="disabled"><td>Shift</td><td>Fire bow cannon</td></tr>

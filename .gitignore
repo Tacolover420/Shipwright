@@ -1,5 +1,7 @@
 .vscode/
+images/
 node_modules/
 *.png
 *.js
 *.js.map
+-js/lib/*.js
